@@ -11,7 +11,7 @@ installed, then:
 
 This should download Netty, compile the code and start the echo server:
 
-    [info] Building project echo 0.2.0-SNAPSHOT against Scala 2.8.1
+    [info] Building project echo 0.2.1-SNAPSHOT against Scala 2.8.1
     ...
     [info] Running com.postneo.protocols.echo.EchoServer
 

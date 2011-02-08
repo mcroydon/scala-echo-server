@@ -4,7 +4,7 @@ package com.postneo.protocols
  * Java code from the Netty documentation.
  *
  * @author Matt Croydon
- * @version 0.2.0-SNAPSHOT
+ * @version 0.2.1-SNAPSHOT
  */
 package echo
 
